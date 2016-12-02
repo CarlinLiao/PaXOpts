@@ -1,0 +1,117 @@
+skytrax_16_name,IATA,2016,2015,2014,2013,2012,2011
+Adelaide Airport,ADL,69,63,66,77,75,74
+Auckland Airport,AKL,21,15,11,12,13,8
+Amsterdam Schiphol,AMS,13,9,5,3,4,6
+Stockholm Arlanda,ARN,67,61,65,60,51,46
+Athens Intl Airport,ATH,60,55,56,51,33,43
+Hartsfield-Jackson,ATL,43,44,45,48,59,57
+Abu Dhabi Airport,AUH,38,29,22,20,18,26
+Bahrain Airport,BAH,47,46,47,55,58,52
+Barcelona Airport,BCN,27,37,38,39,21,15
+Birmingham Airport,BHX,87,82,81,91,95,98
+Bangkok Suvarnabhumi,BKK,36,47,48,38,25,13
+Billund Airport,BLL,79,68,62,57,50,62
+Bengaluru Airport,BLR,74,64,79,73,67,59
+Brisbane Airport,BNE,17,20,23,21,34,38
+Bogota El Dorado,BOG,46,94,260,0,0,0
+Mumbai  Intl Airport,BOM,64,141,0,0,0,0
+Boston Logan Airport,BOS,97,88,86,88,94,99
+Brussels Airport,BRU,83,78,72,66,69,63
+Budapest Intl Airport,BUD,76,69,71,101,85,78
+Cairo Airport,CAI,0,0,0,0,100,82
+Guangzhou Airport,CAN,85,66,42,42,52,41
+Paris CDG Airport,CDG,33,48,95,82,78,89
+JakartaIntl Airport,CGK,63,57,60,113,0,0
+Cologne/Bonn Airport,CGN,19,23,28,37,53,61
+Christchurch Airport,CHC,51,76,74,64,70,65
+Charlotte/Douglas,CLT,0,0,97,87,88,87
+Copenhagen Airport,CPH,18,16,17,17,12,10
+Cape Town Airport,CPT,22,26,30,22,27,28
+Chengdu Airport,CTU,50,50,94,182,0,0
+Cincinnati/Kentucky,CVG,32,30,27,30,24,24
+Delhi Intl Airport,DEL,66,58,59,69,62,95
+Denver Airport,DEN,28,33,29,36,44,35
+Dallas/Fort Worth,DFW,58,62,54,54,49,37
+Moscow Domodedovo,DME,53,51,55,49,40,36
+Doha Hamad Airport,DOH,10,22,75,68,63,56
+Detroit Airport,DTW,89,96,87,79,76,72
+Dublin Airport,DUB,80,81,92,95,104,0
+Durban Airport,DUR,35,28,32,26,35,33
+Dusseldorf Airport,DUS,39,34,36,27,36,31
+Dubai Airport,DXB,26,39,25,33,26,23
+Newark Intl Airport,EWR,0,0,0,93,96,101
+Frankfurt Airport,FRA,12,13,13,11,15,20
+Fukuoka Airport,FUK,98,93,99,92,92,90
+Gimpo Intl Airport,GMP,42,41,33,23,23,27
+Geneva Intl Airport,GVA,96,95,109,96,105,0
+Guayaquil Airport,GYE,65,59,57,45,56,58
+Haikou Meilan Airport,HAK,52,53,34,44,64,53
+Hamburg Airport,HAM,40,45,44,43,28,29
+Hanoi Noi Bai Airport,HAN,82,218,0,0,0,0
+Helsinki Airport,HEL,15,18,19,15,22,18
+Hong Kong Intl Airport,HKG,5,4,4,4,3,1
+Tokyo Intl  Haneda,HND,4,5,6,9,14,17
+Hyderabad Airport,HYD,68,70,68,65,77,92
+Houston George Bush,IAH,71,101,90,80,83,81
+Incheon Intl Airport,ICN,2,2,2,2,1,3
+Istanbul Atatürk,IST,0,71,40,32,57,54
+New York JFK Airport,JFK,59,60,61,63,74,70
+Johannesburg Intl,JNB,30,24,26,28,31,25
+Keflavik Intl Airport,KEF,72,67,73,81,84,85
+Kansai Intl Airport,KIX,9,12,14,18,19,14
+Kuala Lumpur Airport,KUL,24,19,20,14,8,9
+Kazan Intl Airport,KZN,100,103,0,0,0,0
+Los Angeles Airport,LAX,91,98,102,0,0,0
+London City Airport,LCY,41,32,31,34,37,45
+Gatwick Airport,LGW,45,40,35,35,45,66
+London Heathrow,LHR,8,8,10,10,11,16
+Lima Airport,LIM,49,35,37,25,30,32
+Lisbon Airport,LIS,57,52,58,67,61,60
+Luxembourg Airport,LUX,99,91,91,85,87,79
+Madrid-Barajas Airport,MAD,31,27,41,47,38,22
+Manchester Airport,MAN,90,80,78,70,66,67
+Muscat Intl Airport,MCT,94,77,69,75,89,97
+Melbourne Airport,MEL,25,25,24,29,43,48
+Malta Intl Airport,MLA,92,97,80,72,60,73
+Mauritius Airport,MRU,0,100,111,0,0,0
+Minneapolis-St Paul,MSP,75,86,67,71,65,64
+Munich Airport,MUC,3,3,3,6,6,4
+Nice Airport,NCE,84,79,77,76,73,68
+Centrair Airport,NGO,6,7,12,13,10,11
+Narita Intl Airport,NRT,11,14,16,16,17,19
+Gold Coast Airport,OOL,55,42,50,52,46,34
+Porto  Airport,OPO,70,65,63,53,55,55
+Chicago O'Hare,ORD,0,92,96,84,86,80
+Oslo Airport,OSL,56,49,51,56,48,42
+Beijing Capital Airport,PEK,16,10,7,5,5,5
+Perth Airport,PER,73,75,76,78,80,86
+Philadelphia Airport,PHL,0,0,100,104,97,100
+Pittsburgh Airport,PIT,0,0,0,97,90,83
+Palma de Mallorca,PMI,0,0,0,0,93,91
+Prague Airport,PRG,93,85,70,61,54,44
+Panama Tocumen,PTY,86,89,84,74,72,69
+Shanghai Pudong,PVG,0,90,64,59,32,39
+Raleigh-Durham,RDU,0,99,93,86,82,84
+Seattle-Tacoma,SEA,54,54,53,62,71,75
+San Francisco Airport,SFO,37,36,39,40,39,50
+Shanghai Hongqiao,SHA,34,31,15,19,16,21
+Singapore Changi,SIN,1,1,1,1,2,2
+Salt Lake City Airport,SLC,0,0,0,94,99,102
+Stansted Airport,STN,95,73,49,41,42,47
+Moscow Sheremetyevo,SVO,78,84,88,89,98,105
+Berlin Schönefeld,SXF,0,0,0,99,106,0
+Sydney Airport,SYD,23,21,21,31,20,40
+Sanya Phoenix Airport,SYX,81,83,82,98,91,76
+Shenzhen Airport,SZX,77,72,83,133,0,0
+Tel Aviv Airport,TLV,0,0,0,100,101,0
+Taiwan Taoyuan Airport,TPE,20,17,18,24,29,0
+Berlin Tegel Airport,TXL,0,0,0,90,81,77
+Quito Intl Airport,UIO,62,105,0,0,0,0
+Vienna Airport,VIE,29,38,46,50,41,51
+Warsaw Airport,WAW,0,0,98,102,0,0
+Xi'an Airport,XIY,48,74,89,176,0,0
+Halifax Stanfield,YHZ,61,56,52,58,68,88
+Montréal Intl Airport,YUL,88,87,85,83,79,71
+Vancouver Airport,YVR,14,11,9,8,9,12
+Toronto Pearson,YYZ,44,43,43,46,47,49
+Zurich Airport,ZRH,7,6,8,7,7,7
